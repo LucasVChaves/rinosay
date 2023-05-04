@@ -4,7 +4,7 @@
 
 ## Install
 Just clone the repository  
-`git clone https://github.com/LucasVChaves/rinosay.git` | or via ssh `git@github.com:LucasVChaves/rinosay.git`  
+`git clone https://github.com/LucasVChaves/rinosay.git` | or via ssh `git clone git@github.com:LucasVChaves/rinosay.git`  
 Enter the repo's directory  
 `cd rinosay`  
 And run the install script  
