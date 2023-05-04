@@ -12,5 +12,5 @@ And run the install script
 *this install script is a quick hack I made in 30s, it is far from being a nice solution*  
 
 ## Usage
-Just run the command with the desired string between quote marks:  
-`rinosay "Ouch mango joseph!"  `
+Just run the command with the desired string:  
+`rinosay Ouch mango joseph!`
